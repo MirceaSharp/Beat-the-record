@@ -1,0 +1,7 @@
+C:\Users\mirce\source\repos\Beat the record\Beat the record\bin\Debug\Beat the record.exe.config
+C:\Users\mirce\source\repos\Beat the record\Beat the record\bin\Debug\Beat the record.exe
+C:\Users\mirce\source\repos\Beat the record\Beat the record\bin\Debug\Beat the record.pdb
+C:\Users\mirce\source\repos\Beat the record\Beat the record\obj\Debug\Beat the record.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\Beat the record\Beat the record\obj\Debug\Beat the record.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\Beat the record\Beat the record\obj\Debug\Beat the record.exe
+C:\Users\mirce\source\repos\Beat the record\Beat the record\obj\Debug\Beat the record.pdb
